@@ -14,7 +14,7 @@ class Base {
         }
     }
 
-    void positive_test(int n) {
+    void test(int n) {
         if (n < 0) {
             fail("less than 0");
         } if (n == 0) {

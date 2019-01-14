@@ -11,17 +11,17 @@ public class OtherTest extends Base {
 
     @Test
     public void testestOK() {
-        positive_test(7 - 5);
+        test(7 - 5);
     }
 
     @Test
     public void testestNotOK() {
-        positive_test(5 - 5);
+        test(5 - 5);
     }
 
     @Test
     public void testestAnotherNotOK() {
-        positive_test(5 - 7);
+        test(5 - 7);
     }
 
 }
