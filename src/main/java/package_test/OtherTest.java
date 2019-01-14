@@ -9,6 +9,11 @@ public class OtherTest extends Base {
     }
 
     @Test
+    public void testest() {
+        positive_test(7-5);
+    }
+
+    @Test
     public void testestOK() {
         positive_test(7 - 5);
     }
