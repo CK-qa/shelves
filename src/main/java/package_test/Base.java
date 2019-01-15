@@ -26,4 +26,6 @@ class Base {
 
     //test apply selected changes
 
+    //this should appear after apply
+
 }

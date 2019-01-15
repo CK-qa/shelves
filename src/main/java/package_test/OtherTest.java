@@ -24,4 +24,5 @@ public class OtherTest extends Base {
         test(5 - 7);
     }
 
+    //this should not appear after apply
 }
