@@ -24,4 +24,6 @@ class Base {
 
     //test
 
+    //test apply selected changes
+
 }
